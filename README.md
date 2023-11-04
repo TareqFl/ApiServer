@@ -2,7 +2,7 @@
 
 <h6>An Api server written in Js +Ts</h6>
 
-This is a simple api server that uses express.js,mongoose and Jwt to serve the endpoints and typescript for type checking.
+This is a sample api server that uses express.js,mongoose and Jwt to serve the endpoints and typescript for type checking.
 
 ### Scripts:
 
